@@ -9,8 +9,8 @@
 //------------------------------------------------------------------------------
 
 namespace WebAPI_v4 {
-	
-	
-	public partial class Default {
-	}
+    
+    
+    public partial class Default {
+    }
 }
